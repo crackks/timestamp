@@ -1,0 +1,14 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "author": "Paul-Emile Chantrel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
